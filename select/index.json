@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "キミノヨゾラ哨戒班",
+  "base_artist": "Orangestar",
+  "createdAt": "2025-12-11T09:20:19.375631Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "キミノヨゾラ哨戒班",
+      "artist": "Orangestar feat. IA",
+      "has_synced": true,
+      "path": "select/01_キミノヨゾラ哨戒班_Orangestar_feat._IA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "キミノヨゾラ哨戒班 (feat. IA)",
+      "artist": "Orangestar, IA",
+      "has_synced": true,
+      "path": "select/02_キミノヨゾラ哨戒班_(feat._IA)_Orangestar,_IA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "キミノヨゾラ哨戒班",
+      "artist": "Orangestar",
+      "has_synced": true,
+      "path": "select/03_キミノヨゾラ哨戒班_Orangestar.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "キミノヨゾラ哨戒班 (feat. IA)",
+      "artist": "Orangestar",
+      "has_synced": true,
+      "path": "select/04_キミノヨゾラ哨戒班_(feat._IA)_Orangestar.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "キミノヨゾラ哨戒班",
+      "artist": "Orangestar",
+      "has_synced": false,
+      "path": "select/pl_01_キミノヨゾラ哨戒班_Orangestar.txt"
+    }
+  ]
+}
